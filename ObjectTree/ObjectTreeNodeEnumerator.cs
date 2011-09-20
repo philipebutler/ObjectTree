@@ -62,7 +62,7 @@ namespace ObjectTree
 				
 			}else{
 				
-				curObjectTreeNode = _collection.GetItem[curIndex];
+				curObjectTreeNode = _collection.GetItem(curIndex);
 				
 			}
 			
