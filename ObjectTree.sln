@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectTree", "ObjectTree\ObjectTree.csproj", "{612A4AC7-5A16-4241-9239-C8A91DF9475C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectTree.Test", "ObjectTree.Test\ObjectTree.Test.csproj", "{91B04E0E-1742-456F-BD82-EE810E0A5364}"
